@@ -8,8 +8,8 @@
 # exec /bin/bash
 # echo "# vue-admin-beautiful" >> README.md
 set -e
-git init
-git add -A
+# git init
+git add .
 git commit -m '🎉 feat: init project'
 git push -f "https://${access_token}@github.com/LiYeZhiXiu/vue-admin-beautiful.git" master
 
