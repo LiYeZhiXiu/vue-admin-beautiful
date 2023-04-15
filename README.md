@@ -1,111 +1,9 @@
 <div style="filter: grayscale(100%)">
 
-简体中文 | [English](./README.en.md)
-
-<div align="center"><img width="200" src="https://fastly.jsdelivr.net/gh/chuzhixin/image/logo/vab.png"/>
-<h1> hym111</h1>
-
-<p>众志成城，攻坚克难，愿所有美好纷沓而来！</p>
-</div>
-
-[![stars](https://img.shields.io/github/stars/chuzhixin/vue-admin-beautiful?style=flat-square&logo=GitHub)](https://github.com/chuzhixin/vue-admin-beautiful)
-[![star](https://gitee.com/chu1204505056/hym111/badge/star.svg?theme=gray)](https://gitee.com/chu1204505056/hym111)
-[![license](https://img.shields.io/github/license/chuzhixin/vue-admin-beautiful?style=flat-square)](https://en.wikipedia.org/wiki/MIT_License)
-
----
-
 ## 🎉 特性
 
-- 💪 40+高质量单页
-- 💅 RBAC 模型 + JWT 权限控制
-- 🌍 10 万+ 项目实际应用
-- 👏 良好的类型定义
-- 🥳 开源版本支持免费商用
 - 🚀 跨平台 PC、手机端、平板
 - 📦️ 后端路由动态渲染
-
-## 🌐 地址
-
-- [🎉 vue2.x + element-ui（免费商用，支持 PC、平板、手机）](https://vue-admin-beautiful.com/vue-admin-beautiful-element/)
-
-- [⚡️ vue3.x + element-plus（alpha 版本，免费商用，支持 PC、平板、手机）](https://vue-admin-beautiful.com/vue-admin-beautiful-element-plus/)
-
-- [⚡️ vue3.x + ant-design-vue（beta 版本，免费商用，支持 PC、平板、手机）](https://vue-admin-beautiful.com/vue-admin-beautiful-antdv/)
-
-- [⚡️ vue3.x + vite + arco](https://vue-admin-beautiful.com/vue-admin-arco/)
-
-- [🚀 admin pro 演示地址（vue2.x 付费版本，支持 PC、平板、手机）](https://vue-admin-beautiful.com/admin-pro/)
-
-- [🚀 admin plus 演示地址（vue3.x 付费版本，支持 PC、平板、手机）](https://vue-admin-beautiful.com/admin-plus/)
-
-- [📌 pro 及 plus 购买地址 authorization](https://vue-admin-beautiful.com/authorization/)
-
-- [🚀 Vue Shop Vite 商城（付费版本）](https://vue-admin-beautiful.com/shop-vite/)
-
-- [🌐 github 仓库地址](https://github.com/chuzhixin/vue-admin-beautiful?utm_source=gold_browser_extension)
-
-- [🌐 码云仓库地址](https://gitee.com/chu1204505056/hym111?_from=gitee_search)
-
-## 🌐 备份地址
-
-- [🚀 admin pro 演示地址（付费版本，支持 PC、平板、手机）](https://chu1204505056.gitee.io/admin-pro/)
-
-- [🚀 admin plus 演示地址（vue3.x 付费版本，支持 PC、平板、手机）](https://chu1204505056.gitee.io/admin-plus/)
-
-## 🍻 前端讨论 QQ 群
-
-- 请我们喝杯咖啡，打赏后联系 QQ 783963206 邀请您进入讨论群（由于用户数较多，如果您打赏后未通过好友请求，请联系商家），不管您请还是不请，您都可以享受到开源的代码，感谢您的支持和信任，群内提供 hym111 基础版本、开发工具自动配置教程及项目开发文档。
-<table>
-<tr>
-<td>
-<img width="200px" src="https://fastly.jsdelivr.net/gh/chuzhixin/image/zfb_kf.jpg">
-</td>
-<td>
-<img width="200px" src="https://fastly.jsdelivr.net/gh/chuzhixin/image/qq_group/vab-2.jpg">
-</td>
-<td>
-<img width="200px" src="https://fastly.jsdelivr.net/gh/chuzhixin/image/qq_group/vab-3.jpg">
-</td>
-</tr>
-</table>
-
-## 📦️ 桌面应用程序
-
-- [Admin Pro](https://gitee.com/chu1204505056/microsoft-store/raw/master/AdminPlus.zip)
-- [Admin Plus](https://gitee.com/chu1204505056/microsoft-store/raw/master/AdminPlus.zip)
-
-## 🌱 vue3.x vue3.0-antdv 分支（ant-design-vue）[点击切换分支](https://github.com/chuzhixin/hym111/tree/vue3.0-antdv)
-
-```bash
-# 克隆项目
-git clone -b vue3.0-antdv https://github.com/chuzhixin/hym111.git
-# 安装依赖
-npm i --registry=http://mirrors.cloud.tencent.com/npm/
-# 本地开发 启动项目
-npm run serve
-```
-
-## 🌱 vue3.x arco-design [点击切换仓库](https://github.com/chuzhixin/vue-admin-arco)
-
-```bash
-# 克隆项目
-git clone  https://github.com/chuzhixin/vue-admin-arco.git
-# 安装依赖
-npm i --registry=http://mirrors.cloud.tencent.com/npm/
-# 本地开发 启动项目
-npm run dev
-```
-
-## 🌱vue2.x master 分支（element-ui）[点击切换分支](https://github.com/chuzhixin/hym111/tree/master)
-
-```bash
-# 克隆项目
-git clone -b master https://github.com/chuzhixin/hym111.git
-# 安装依赖
-npm i --registry=http://mirrors.cloud.tencent.com/npm/
-# 本地开发 启动项目
-npm run serve
-```
 
 ## 🔊 友情链接
 
@@ -116,18 +14,6 @@ npm run serve
 - [form-generator Element 表单设计代码生成器](https://github.com/JakHuang/form-generator/)
 
 - [wangEditor 国产最强开源富文本编辑](https://github.com/wangeditor-team/wangEditor)
-
-## 🙈 我们承诺将定期赞助的开源项目（感谢巨人）
-
-<a title="vue" href="https://opencollective.com/vuejs" target="_blank">
-<img width="64px" src="https://fastly.jsdelivr.net/gh/chuzhixin/image/vue.png"/>
-</a>
-<a title="element-plus" href="https://opencollective.com/element-plus" target="_blank">
-<img width="64px" src="https://fastly.jsdelivr.net/gh/chuzhixin/image/element-plus.png"/>
-</a>
-<a title="ant-design-vue" href="https://opencollective.com/ant-design-vue" target="_blank">
-<img width="64px" src="https://images.opencollective.com/ant-design-vue/2ec179b/logo/256.png"/>
-</a>
 
 ## 🎨 鸣谢
 
@@ -140,24 +26,6 @@ npm run serve
 | [mock](https://github.com/nuysoft/Mock)                          |
 | [axios](https://github.com/axios/axios)                          |
 | [wangEditor](https://github.com/wangeditor-team/wangEditor)      |
-
-## 👷 框架杰出贡献者（排名不分先后）
-
-<a href="https://github.com/buuing" target="_blank">
-<img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/36689704?s=50"/>
-</a>
-<a href="https://github.com/hipi" target="_blank">
-<img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/22478003?s=50"/>
-</a>
-<a href="https://github.com/fwfmiao" target="_blank">
-<img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/29328241?s=50"/>
-</a>
-<a href="https://github.com/hdtopku" target="_blank">
-<img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/14859466?s=50"/>
-</a>
-<a href="https://github.com/shaonialife" target="_blank">
-<img width="50px" style="border-radius:999px" src="https://avatars.githubusercontent.com/u/16135960?s=50"/>
-</a>
 
 ## 📌 优势及注意事项
 
@@ -180,51 +48,4 @@ npm run serve
 
 ```
 
-## 💚 适合人群
-
-- 正在以及想使用 element-ui/element-plus 开发，前端开发经验 1 年+。
-- 熟悉 Vue.js 技术栈，使用它开发过几个实际项目。
-- 对原理技术感兴趣，想进阶和提升的同学。
-
-## 🎉 功能地图
-
-![img](https://fastly.jsdelivr.net/gh/chuzhixin/image/vip/flow.drawio.png)
-
-## 🗃️ 效果图
-
-以下是截取的是 pro 版的效果图展示：
-
-<table>
-<tr>
-<td>
-<img src="https://fastly.jsdelivr.net/gh/chuzhixin/image/2.png">
-</td>
-<td>
-<img src="https://fastly.jsdelivr.net/gh/chuzhixin/image/6.png">
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://fastly.jsdelivr.net/gh/chuzhixin/image/8.png">
-</td>
-<td>
-<img src="https://fastly.jsdelivr.net/gh/chuzhixin/image/9.png">
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://fastly.jsdelivr.net/gh/chuzhixin/image/3.png">
-</td>
-<td>
-<img src="https://fastly.jsdelivr.net/gh/chuzhixin/image/5.png">
-</td>
-</tr>
-</table>
-
-## 📄 商用注意事项
-
-此项目可免费用于商业用途，请遵守 MIT 协议并保留作者技术支持声明。
-
 </div>
-# vue-admin-beautiful
-# vue-admin-beautiful
